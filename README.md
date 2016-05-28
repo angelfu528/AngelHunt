@@ -37,4 +37,4 @@ Add a comment to the detail page
 * Search 
 * Show "comments by users" (username instead of user id)
 
-Unfortunately, as of March 2016, Meteor has suspended the free hosting service. If you want to check out the app, clone it and host it at localhost:3000.
+Unfortunately, as of March 2016, Meteor has suspended the free hosting service. If you want to check out the app, clone it and run it at localhost:3000.
