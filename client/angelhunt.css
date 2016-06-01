@@ -68,11 +68,11 @@ ol li::before {
     margin-top: 15px;
 }
 
-#url {
+/*#url {
     float: left;
     width: 50%;
     margin-right: 5px;
-}
+}*/
 
 @import url("https://fonts.googleapis.com/css?family=Lato:400,700,400italic");
 /*!
